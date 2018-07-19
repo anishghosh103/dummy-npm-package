@@ -1,0 +1,26 @@
+{
+  "name": "@nlekane/dummy-npm-package",
+  "version": "1.0.0",
+  "description": "A Dummy Package to see how to publish npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JS-Sensei/dummy-npm-package.git"
+  },
+  "keywords": [
+    "Dummy",
+    "Example",
+    "npm",
+    "publishing",
+    "Package"
+  ],
+  "author": "Neila Lekane Tamba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JS-Sensei/dummy-npm-package/issues"
+  },
+  "homepage": "https://github.com/JS-Sensei/dummy-npm-package#readme"
+}
